@@ -1,3 +1,3 @@
 # VueStudy
 
-Vue勉強会よう
+Vue勉強会用
